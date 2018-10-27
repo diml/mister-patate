@@ -7,4 +7,4 @@ character is a potato. The gameplay is inspired from the game
 Patate was written for DOS in a mix of Pascale and assembly
 language. I might rewrite it in OCaml one day.
 
-[[./screenshot.png]]
+![Mister Patate](./screenshot.png)
